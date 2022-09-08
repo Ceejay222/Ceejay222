@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ceejay222
-- 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m a full stack developer
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on exciting and engaging projects
 - 📫 How to reach me rhema24@gmail.com
 
