@@ -4,7 +4,7 @@
  - 🧰 Background: Full-stack JavaScript
  - 📚 Currently studying: Microsoft Azure Fundamentals | CompTIA Security+ | CompTIA CySA+ | Forescout FSCA
  - 🛠️ Building: KQL detections, Log Analytics monitoring, incident workflows & security labs
- - 🤝 Open to: SOC / Cloud Security projects + junior roles
+ - 🤝 Open to: SOC / Cloud Security projects + roles
  - 📫 Contact: rhema24@gmail.com
 
 <!---
