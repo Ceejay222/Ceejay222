@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Ceejay222
-- 👀 I’m a full stack developer
-- 🌱 Web development in Javascript, Django and Python
-- 💞️ I’m looking to collaborate on exciting and engaging projects
-- 📫 Email me @ rhema24@gmail.com
+ - 👋 Hi, I’m Ceejay
+ - 🧑‍🏫 Computer Science Teacher (18 years) | Visiting Lecturer — University of Hertfordshire
+ - 🔐 Cloud & SOC Security (Azure / Microsoft Sentinel)
+ - 📚 Currently studying: Microsoft Azure Fundamentals | CompTIA Security+ | CompTIA CySA+ | Forescout FSCA
+ - 🛠️ Building: KQL detections, Log Analytics monitoring, incident workflows & security labs
+ - 🤝 Open to: SOC / Cloud Security projects + junior roles
+ - 📫 Contact: rhema24@gmail.com
 
 <!---
 Ceejay222/Ceejay222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
